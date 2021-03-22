@@ -9,9 +9,7 @@ In fact, I’ve been writing code sometimes since about 2010; typically JavaScri
 
 Ask me about good restaurants in Chicago. I dine out sometimes.
 
-## Some Stats 📊
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joem-rp&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joem-rp&repo=github-readme-stats&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Recent Posts 📝
