@@ -1,4 +1,27 @@
-### Hi there 👋
+
+> You know that saying about an infinite number of monkeys with an infinite number of keyboards will eventually reproduce Shakespeare? Well, you’ve only got one monkey. And only one keyboard. But I am a _very_ lucky monkey.
+
+### About Me 👋
+
+Hello! My name is Joe Meyer; Full-time developer, part-time hobby-jogger, Tsar of awful check-in comments. I like cooking, exploring Chicago, and a good story. I write code sometimes.
+
+In fact, I’ve been writing code sometimes since about 2010; typically JavaScript, C#, CSS, and other things related to function and form for web and phone apps, both native and HTML-based. Recently, I’ve taken a particular shine to React Native and other technologies that make cross-platform native possible from a single code base. I like to blog about the things I learn at a little company called [Rightpoint](https://www.rightpoint.com/) as well as the cool stuff I learn on my own time.
+
+Ask me about good restaurants in Chicago. I dine out sometimes.
+
+## Some Stats 📊
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joem-rp&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Recent Posts 📝
+
+I write about my adventures in programming on Wordpress. [Check it out](https://iwritecodesometimes.net/)
+
+
+## Recent Work 🏆
+
+[![<img src="https://www.worldmarket.com/images/homepage/2021/wk03/a-1-0317-lg.jpg" height="100" />](https://www.worldmarket.com/images/homepage/2021/wk03/a-1-0317-lg.jpg)](https://www.worldmarket.com/category/virtualoutdoorstore.do)
 
 <!--
 **JoeM-RP/JoeM-RP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
