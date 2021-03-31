@@ -14,14 +14,11 @@ Ask me about good restaurants in Chicago. I dine out sometimes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joem-rp&repo=github-readme-stats&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Recent Posts 📝
-
-I write about my adventures in programming on Wordpress. [Check it out](https://iwritecodesometimes.net/)
-
-
 ## Recent Work 🏆
 
-[![<img src="https://www.worldmarket.com/images/homepage/2021/wk03/a-1-0317-lg.jpg" height="100" />](https://www.worldmarket.com/images/homepage/2021/wk03/a-1-0317-lg.jpg)](https://www.worldmarket.com/category/virtualoutdoorstore.do)
+
+- World Market Virtual Store: Helped create a virtual shopping experience using React & [Matterport](https://matterport.com/). [Site](https://www.worldmarket.com/category/virtualoutdoorstore.do) | [Article](https://www.rightpoint.com/news/2020/11/18/cost-plus-world-market-taps-rightpoint-to-launch-virtual-holiday-store)
+
 
 <!--
 **JoeM-RP/JoeM-RP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
