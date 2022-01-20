@@ -18,7 +18,7 @@ Ask me about good restaurants in Chicago. I dine out sometimes.
 
 
 **World Market Virtual Store:** Helped create a virtual shopping experience using React & [Matterport](https://matterport.com/). 
-> [Website](https://www.worldmarket.com/category/virtualoutdoorstore.do) | [Article](https://www.rightpoint.com/news/2020/11/18/cost-plus-world-market-taps-rightpoint-to-launch-virtual-holiday-store)
+>[Article](https://www.rightpoint.com/news/2020/11/18/cost-plus-world-market-taps-rightpoint-to-launch-virtual-holiday-store)
 
 
 <!--
