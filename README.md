@@ -7,7 +7,7 @@
 
 Hello! My name is Joe Meyer; Full-time developer, part-time hobby-jogger, Tsar of awful check-in comments. I like cooking, exploring Chicago, and a good story. I write code sometimes.
 
-In fact, I’ve been writing code sometimes since about 2010; typically JavaScript, C#, CSS, and other things related to function and form for web and phone apps, both native and HTML-based. Recently, I’ve taken a particular shine to React Native and other technologies that make cross-platform native possible from a single code base. I like to blog about the things I learn at a little company called [Rightpoint](https://www.rightpoint.com/) as well as the cool stuff I learn on my own time.
+In fact, I’ve been writing code sometimes since about 2010; typically Typescript, C#, CSS, and other things related to function and form for web and phone apps, both native and HTML-based. Recently, I’ve taken a particular shine to React Native and other technologies that make cross-platform native possible from a single code base. I like to blog about the things I learn at a little company called [Rightpoint](https://www.rightpoint.com/) as well as the cool stuff I learn on my own time.
 
 Ask me about good restaurants in Chicago. I dine out sometimes.
 
@@ -16,6 +16,8 @@ Ask me about good restaurants in Chicago. I dine out sometimes.
 
 ## Recent Work 🏆
 
+**VIU by HUB Mobile App:** Lead development of a React Native mobile experience combining native features with web portals. 
+> [Article](https://www.viubyhub.com/newsroom/press-releases/2023/06/viu-by-hub-revolutionizes-personal-insurance-management-with-launch-of-new-mobile-app) | [iOS Store](https://apps.apple.com/us/app/viu-by-hub-better-insurance/id1670498202) | [Google Play](https://play.google.com/store/apps/details?id=com.viubyhub.mobile&hl=en)
 
 **World Market Virtual Store:** Helped create a virtual shopping experience using React & [Matterport](https://matterport.com/). 
 >[Article](https://www.rightpoint.com/news/2020/11/18/cost-plus-world-market-taps-rightpoint-to-launch-virtual-holiday-store)
