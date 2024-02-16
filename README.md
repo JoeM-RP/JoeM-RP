@@ -16,6 +16,9 @@ Ask me about good restaurants in Chicago. I dine out sometimes.
 
 ## Recent Work 🏆
 
+**Tonari.app PWA**
+> WIP web app for collecting locations and activities of interest and quickly locating them when nearby using geolocation, push notifications, and service workers for a richer experience. [Tonari.app](https://tonari.app)
+
 **VIU by HUB Mobile App:** Lead development of a React Native mobile experience combining native features with web portals. 
 > [Article](https://www.viubyhub.com/newsroom/press-releases/2023/06/viu-by-hub-revolutionizes-personal-insurance-management-with-launch-of-new-mobile-app) | [iOS Store](https://apps.apple.com/us/app/viu-by-hub-better-insurance/id1670498202) | [Google Play](https://play.google.com/store/apps/details?id=com.viubyhub.mobile&hl=en)
 
