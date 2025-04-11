@@ -23,7 +23,7 @@ Ask me about good restaurants in Chicago. I dine out sometimes.
 > [Article](https://www.viubyhub.com/newsroom/press-releases/2023/06/viu-by-hub-revolutionizes-personal-insurance-management-with-launch-of-new-mobile-app) | [iOS Store](https://apps.apple.com/us/app/viu-by-hub-better-insurance/id1670498202) | [Google Play](https://play.google.com/store/apps/details?id=com.viubyhub.mobile&hl=en)
 
 **World Market Virtual Store:** Helped create a virtual shopping experience using React & [Matterport](https://matterport.com/). 
->[Article](https://www.rightpoint.com/news/2020/11/18/cost-plus-world-market-taps-rightpoint-to-launch-virtual-holiday-store)
+>[Article](https://www.rightpoint.com/news/cost-plus-world-market-taps-rightpoint-to-launch-virtual-holiday-store)
 
 
 <!--
