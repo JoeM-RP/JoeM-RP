@@ -7,7 +7,7 @@
 
 Hello, world! My name is Joe Meyer; Full-time developer, part-time hobby-jogger, Tsar of awful check-in comments. I like cooking, exploring Chicago, and a good story. I write code sometimes.
 
-In fact, I’ve been writing code sometimes since about 2010; typically Typescript, CSS, .Net and other things related to function and form for web and phone apps, both native and HTML-based. Recently, I’ve taken a particular shine to React Native and other technologies that make cross-platform native possible from a single code base. I like to blog about the things I learn at a little company called [Rightpoint](https://www.rightpoint.com/) as well as the cool stuff I learn on my own time.
+In fact, I’ve been writing code sometimes since about 2010; typically Typescript, CSS, .Net and other things related to function and form for web and phone apps, both native and HTML-based. Recently, I’ve taken a particular shine to React Native and other technologies that make cross-platform native possible from a single code base. I like to blog about the things I learn at work as well as the cool stuff I learn on my own time.
 
 Ask me about good restaurants in Chicago. I dine out sometimes.
 
